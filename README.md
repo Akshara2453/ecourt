@@ -54,7 +54,7 @@ Verifies if OTP matches the stored one
 
 Clone the Repository
 
-git clone https://github.com/yourusername/e-court-portal.git
+git clone https://github.com/Akshara2453/ecourt.git
 
 cd ecourt
 
